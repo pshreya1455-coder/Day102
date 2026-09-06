@@ -1,0 +1,5 @@
+A Pull Request is a request to merge changes from one branch into another.
+It allows team members to review the code before merging it.
+Pull Requests help find mistakes and improve code quality.
+Teams use them to discuss and track changes.
+They make collaboration easier in software projects.
